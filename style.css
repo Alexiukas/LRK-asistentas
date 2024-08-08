@@ -25,10 +25,6 @@
   cursor: pointer;
 }
 
-.vfrc-proactive-message:hover {
-  background: linear-gradient(135deg, #e0323b 0%, #e71118 100%); /* Darker gradient on hover */
-}
-
 .vfrc-chat-input textarea {
   background-image: none;
 }
